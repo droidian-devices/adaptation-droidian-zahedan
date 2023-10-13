@@ -1,0 +1,23 @@
+Source: adaptation-droidian-zahedan
+Maintainer: Bardia Moshiri
+Section: metapackages
+Priority: optional
+Build-Depends: debhelper (>= 10), batman-dev
+Standards-Version: 4.5.0.3
+Vcs-Browser: https://github.com/fakeshell/adaptation-droidian-zahedan
+Vcs-Git: https://github.com/fakeshell/adaptation-droidian-zahedan.git
+
+Package: adaptation-droidian-zahedan
+Architecture: arm64
+Depends: ${misc:Depends},
+         adaptation-hybris-api32-phone,
+         adaptation-zahedan-configs,
+         libbatman-wrappers,
+         blueman
+Description: adapatation-zahedan-meta
+ zahedan api32 adaptation metapackage
+
+Package: adaptation-zahedan-configs
+Architecture: arm64
+Depends: ${misc:Depends},
+Description: zahedan's adaptation configs
