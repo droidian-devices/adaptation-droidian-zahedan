@@ -9,3 +9,4 @@ override_dh_auto_build:
 override_dh_installsystemd:
 	dh_installsystemd -padaptation-zahedan-configs --name=modules modules.service --no-start
 	dh_installsystemd -padaptation-zahedan-configs --name=pbhelper pbhelper.service --no-start
+	dh_installsystemd -padaptation-zahedan-configs --name=droidian-perf droidian-perf.service --no-start
