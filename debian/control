@@ -13,7 +13,6 @@ Depends: ${misc:Depends},
          adaptation-hybris-api32-phone,
          adaptation-zahedan-configs,
          libbatman-wrappers,
-         blueman
 Description: adapatation-zahedan-meta
  zahedan api32 adaptation metapackage
 
