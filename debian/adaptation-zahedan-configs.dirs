@@ -1,4 +1,5 @@
 /etc/udev/rules.d
+/etc/pulse
 /etc/phosh
 /usr/bin
 /usr/lib/droidian/device
