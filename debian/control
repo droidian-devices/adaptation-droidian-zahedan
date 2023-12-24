@@ -13,6 +13,7 @@ Depends: ${misc:Depends},
          adaptation-hybris-api32-phone,
          adaptation-zahedan-configs,
          libbatman-wrappers,
+         droidian-camera
 Description: adapatation-zahedan-meta
  zahedan api32 adaptation metapackage
 
