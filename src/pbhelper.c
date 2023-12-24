@@ -1,3 +1,9 @@
+/*
+ * Copyright (C) 2024 Bardia Moshiri
+ * SPDX-License-Identifier: GPL-3.0+
+ * Author: Bardia Moshiri <fakeshell@bardia.tech>
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <fcntl.h>
