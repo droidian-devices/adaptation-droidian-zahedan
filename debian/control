@@ -10,6 +10,7 @@ Vcs-Git: https://github.com/fakeshell/adaptation-droidian-zahedan.git
 Package: adaptation-droidian-zahedan
 Architecture: arm64
 Depends: ${misc:Depends},
+         linux-bootimage-daria-zahedan,
          adaptation-hybris-api32-phone,
          adaptation-zahedan-configs,
          libbatman-wrappers,
