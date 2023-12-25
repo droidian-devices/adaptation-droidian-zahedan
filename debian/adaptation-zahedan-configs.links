@@ -1,0 +1,12 @@
+/android/vendor/lib/egl/libGLES_meow.so /usr/lib/droid-vendor-overlay/lib/libGLES_meow.so
+/android/vendor/lib/egl/libGLES_mali.so /usr/lib/droid-vendor-overlay/lib/libGLES_mali.so
+/android/vendor/lib/egl/libMEOW_data.so /usr/lib/droid-vendor-overlay/lib/libMEOW_data.so
+/android/vendor/lib/egl/libMEOW_gift.so /usr/lib/droid-vendor-overlay/lib/libMEOW_gift.so
+/android/vendor/lib/egl/libMEOW_qt.so /usr/lib/droid-vendor-overlay/lib/libMEOW_qt.so
+/android/vendor/lib64/egl/libGLES_mali.so /usr/lib/droid-vendor-overlay/lib64/libGLES_mali.so
+/android/vendor/lib64/egl/libGLES_meow.so /usr/lib/droid-vendor-overlay/lib64/libGLES_meow.so
+/android/vendor/lib64/egl/libMEOW_data.so /usr/lib/droid-vendor-overlay/lib64/libMEOW_data.so
+/android/vendor/lib64/egl/libMEOW_gift.so /usr/lib/droid-vendor-overlay/lib64/libMEOW_gift.so
+/android/vendor/lib64/egl/libMEOW_qt.so /usr/lib/droid-vendor-overlay/lib64/libMEOW_qt.so
+/android/vendor/lib64/libpq_cust_base.so /usr/lib/droid-vendor-overlay/lib64/libpq_cust.so
+/android/vendor/lib64/libpq_cust_base.so /usr/lib/droid-vendor-overlay/lib64/libpq_cust.so
